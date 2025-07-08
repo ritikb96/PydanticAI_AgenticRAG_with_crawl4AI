@@ -1,0 +1,6 @@
+supabase
+pydantic-ai
+openai
+crawl4AI
+streamlit
+logfire
