@@ -125,11 +125,5 @@ This project addresses the challenge of navigating complex documentation by auto
 
 This project was inspired by an insightful YouTube tutorial. Learn more about it on the creator’s channel: https://www.youtube.com/@ColeMedin
 
-## Contributing 🤝
 
-Contributions are welcome! Please open an issue or submit a pull request to share improvements or ideas.
-
-## License 📜
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
